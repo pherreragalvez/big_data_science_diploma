@@ -8,7 +8,7 @@ Compilation of tasks completed during a Certificate Program in Big Data and Data
   * Evaluation 2. Classification algorithms: classification trees and k nearest neighbor (KNN).
   * Evaluation 3a. Clustering: K means.
 * <a href="https://github.com/pherreragalvez/big_data_science_diploma/tree/main/Ciencia%20de%20datos%20y%20sus%20aplicaciones" target="_blank">Data Science and its Applications</a>
-   
+  * Project 2. Clustering: K means.
 * <a href="https://github.com/pherreragalvez/big_data_science_diploma/tree/main/Fundamentos%20ML%20DL" target="_blank">Foundations of Machine Learning and Deep Learning</a>
   * Exercise 1 - Improvements in the Performance of Classification Models.
   * Exercise 2 - Improvements and Comparison of Classification Models.
