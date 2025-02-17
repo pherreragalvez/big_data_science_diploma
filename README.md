@@ -1,6 +1,7 @@
 # diploma_bigdata_datascience
 
 Compilation of tasks completed during a Certificate Program in Big Data and Data Science in the Pontificia Universidad Católica de Chile.
+This repository contains a Rmd document and pdf report generated for the tasks from the first two courses, and a notebook with the code for tasks from third course.
 
 ## Courses and Tasks included.
 * <a href="https://github.com/pherreragalvez/big_data_science_diploma/tree/main/Miner%C3%ADa%20de%20datos" target="_blank">Data Mining</a>
