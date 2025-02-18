@@ -1,6 +1,6 @@
 # r_big_data_science
 
-Compilation of tasks completed during a Certificate Program in Big Data and Data Science in the Pontificia Universidad Católica de Chile.
+Compilation of tasks using R, completed during a Certificate Program in Big Data and Data Science in the Pontificia Universidad Católica de Chile (2022).
 
 This repository contains a Rmd document and pdf report generated for the tasks from the first two courses, and a notebook with the code for tasks from third course.
 
