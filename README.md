@@ -1,4 +1,4 @@
-# diploma_bigdata_datascience
+# r_big_data_science
 
 Compilation of tasks completed during a Certificate Program in Big Data and Data Science in the Pontificia Universidad Católica de Chile.
 
